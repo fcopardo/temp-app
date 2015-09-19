@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRM</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+    <string name="hello_world">Insert a cool view! - CRM</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_landing">LandingActivity</string>
+    <string name="title_view_landing">Landing view</string>
+</resources>
